@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//vladsad.github.io/monsters-rolodex/static/css/main.78f2d225.chunk.css",
+    "main.js": "/https//vladsad.github.io/monsters-rolodex/static/js/main.0a180562.chunk.js",
+    "main.js.map": "/https//vladsad.github.io/monsters-rolodex/static/js/main.0a180562.chunk.js.map",
+    "runtime-main.js": "/https//vladsad.github.io/monsters-rolodex/static/js/runtime-main.18a746e0.js",
+    "runtime-main.js.map": "/https//vladsad.github.io/monsters-rolodex/static/js/runtime-main.18a746e0.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/https//vladsad.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/https//vladsad.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/https//vladsad.github.io/monsters-rolodex/index.html",
+    "precache-manifest.f4db4caa92c099ce8c5779bac685d041.js": "/https//vladsad.github.io/monsters-rolodex/precache-manifest.f4db4caa92c099ce8c5779bac685d041.js",
+    "service-worker.js": "/https//vladsad.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.78f2d225.chunk.css.map": "/https//vladsad.github.io/monsters-rolodex/static/css/main.78f2d225.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/https//vladsad.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18a746e0.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.78f2d225.chunk.css",
+    "static/js/main.0a180562.chunk.js"
+  ]
+}
